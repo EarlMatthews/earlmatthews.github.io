@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Earl Matthews Github site
-description: Working on purpose
+description: A collection of appllications I've written
 author:
     name: Earl Matthews
     email: earl[dot]matthews[at]gmail.com
