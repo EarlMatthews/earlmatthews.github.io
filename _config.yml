@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+theme: jekyll-theme-cayman
 title: Earl Matthews Github site
 description: Working on purpose
-=======
-theme: jekyll-theme-cayman
->>>>>>> 6d3cd8f874175855e6fe50962dd3cd3f51657d98
 author:
     name: Earl Matthews
     email: earl[dot]matthews[at]gmail.com
