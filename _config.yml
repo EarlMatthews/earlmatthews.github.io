@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+author:
+    name: Earl Matthews
+    email: earl[dot]matthews[at]gmail.com
+    github: EarlMatthews
+    twitter: @earlmatthews
+production_url : https://earlmatthews.github.io/myrepo
+BASE_PATH : https://earlmatthews.github.io/myrepo
+markdown : kramdown
