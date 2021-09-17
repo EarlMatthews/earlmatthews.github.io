@@ -1,1 +1,1 @@
-[First App](https://apps.apple.com/us/app/large-text-calculator-basic/id1575080167)
+[![First App](images/LargeCalculator.png)](https://apps.apple.com/us/app/large-text-calculator-basic/id1575080167)
